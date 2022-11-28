@@ -1,0 +1,5 @@
+check.c:14:6:checkCount	8	static
+check.c:80:6:ledMode2	8	static
+check.c:92:6:ledMode3	8	static
+check.c:104:6:ledMode4	8	static
+check.c:116:6:checkMode	8	static
